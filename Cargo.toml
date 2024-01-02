@@ -5,9 +5,9 @@ edition = "2021"
 # cp
 authors = ["Samuel Cavalcanti", "scavalcanti111@gmail.com"]
 license-file = "LICENSE.md"
-keywords = ["robotics", "CoppeliaSim", "zmq"]
-categories = ["api-bindings", "science::robotics"]
-description = "A ZMQ Client for CoppeliaSim"
+keywords = []
+categories = []
+description = "Testing Crete.io"
 readme = "README.md"
 repository = "https://github.com/samuel-cavalcanti/test_crates.io"
 
