@@ -2,13 +2,12 @@
 name = "test_crate_io_111"
 version = "0.0.1"
 edition = "2021"
-# cp
-authors = ["Samuel Cavalcanti", "scavalcanti111@gmail.com"]
 license-file = "LICENSE.md"
+description = "Testing Crete.io"
 keywords = []
 categories = []
-description = "Testing Crete.io"
-readme = "README.md"
+authors = ["Samuel Cavalcanti", "scavalcanti111@gmail.com"]
+readme = "Readme2.md"
 repository = "https://github.com/samuel-cavalcanti/test_crates.io"
 
 
